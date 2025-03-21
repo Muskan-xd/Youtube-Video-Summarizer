@@ -26,9 +26,7 @@
 <p align="center">
   <b>This is a python API which allows you to retrieve the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles, supports translating subtitles and it does not require a headless browser, like other selenium based solutions do!</b>
 </p>
-<p align="center">
- Maintenance of this project is made possible by all the <a href="https://github.com/jdepoix/youtube-transcript-api/graphs/contributors">contributors</a> and <a href="https://github.com/sponsors/jdepoix">sponsors</a>. If you'd like to sponsor this project and have your avatar or company logo appear below <a href="https://github.com/sponsors/jdepoix">click here</a>. 💖
-</p>
+
 
 <p align="center">
   <a href="https://www.searchapi.io">
@@ -559,9 +557,3 @@ If you just want to make sure that your code passes all the necessary checks to 
 poe precommit
 ```
 
-## Donations
-
-If this project makes you happy by reducing your development time, you can make me happy by treating me to a cup of 
-coffee, or become a [Sponsor of this project](https://github.com/sponsors/jdepoix) :)  
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BAENLEW8VUJ6G&source=url)
